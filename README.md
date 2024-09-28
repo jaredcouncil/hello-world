@@ -1,2 +1,2 @@
-# portfolio
+# jaredcouncil.com
 my portfolio
